@@ -1,1 +1,3 @@
 # PAMO
+
+Autor: Tomasz Rybczyński
