@@ -28,4 +28,11 @@
         android:name="com.example.zjazd2.ui.recipes.RecipesFragment"
         android:label="Recipes"
         tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_shopping_list"
+        android:name="com.example.zjazd2.ui.shoppinglist.ShoppingListFragment"
+        android:label="Shopping List"
+        tools:layout="@layout/fragment_shopping_list" />
+         />
 </navigation>
